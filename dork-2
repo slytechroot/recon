@@ -1,0 +1,57 @@
+"index of/" + password.txt
+"index of/" +.htaccess
+"index of/" + passwd
+Index of ftp +.mdb allinurl:/cgi-bin/ + mailto
+administrators.pwd.index
+authors.pwd.index
+filetype:config web
+inurl:iisadmin
+inurl:''wwwroot/*"
+inurl:'' ftproot/*/''
+Index of /admin
+filetype:htpasswd
+intitle:''index of' ''.htpasswd'' -intitle:'' dist'' -apache -htppasswd.c
+
+----------------------------------
+
+allintitle: "index of/root"
+örnek 2
+inurl:"auth_user_file.txt"
+DIGER ARAMA SEKILLERI
+Index of /admin"
+"Index of /password"
+"Index of /mail"
+"Index of /" +passwd
+"Index of /" +password.txt
+"Index of /" +.htaccess
+index of ftp +.mdb allinurl:/cgi-bin/ +mailto
+administrators.pwd.index
+authors.pwd.index
+service.pwd.index
+filetype:config web
+gobal.asax index
+allintitle: "index of/admin"
+allintitle: "index of/root"
+allintitle: sensitive filetype:doc
+allintitle: restricted filetype :mail
+allintitle: restricted filetype:doc site:gov
+inurlasswd filetype:txt
+inurl:admin filetype:db
+inurl:iisadmin
+inurl:"auth_user_file.txt"
+inurl:"wwwroot/*."
+top secret site:mil
+confidential site:mil
+allinurl: winnt/system32/ (get cmd.exe)
+allinurl:/bash_history
+intitle:"Index of" .sh_history
+intitle:"Index of" .bash_history
+intitle:"index of" passwd
+intitle:"index of" people.lst
+intitle:"index of" pwd.db
+intitle:"index of" etc/shadow
+intitle:"index of" spwd
+intitle:"index of" master.passwd
+intitle:"index of" htpasswd
+intitle:"index of" members OR accounts
+intitle:"index of" user_carts OR user_cart
