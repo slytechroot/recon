@@ -30,6 +30,8 @@ Search filters
     Example: related:www.google.com
     cache: Shows the cached version of a web page.
     Example: cache:www.google.com
+"intext:"
+"inurl:"
 
 Search Term
 
