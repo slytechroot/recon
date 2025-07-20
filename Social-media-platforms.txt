@@ -1,0 +1,10 @@
+LinkedIn
+Facebook
+Twitter
+
+- Try phishing as the most prevalent method of compromising a target and gathering personal and professional information.
+- This will help with pretexting and enticing the victims during a phishing attack.
+
+Use a burner LinkedIn account with LinkedInt tool to automatically scrape LinkedIn for information on your victims.
+
+Use Hunter.io to dig up email addresses of employees and craft their email addresses to future attacks.
