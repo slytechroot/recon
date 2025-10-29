@@ -1,0 +1,21 @@
+Examples of cyber security search engines include:
+ Dehashed.com: Dehashed.com is a popular cyber security search engine that allows
+users to search for leaked credentials, email addresses, and other sensitive
+information. The platform uses a combination of data breaches and other publicly
+available sources to build its database.
+
+ Intelx.io: Intelx.io is a comprehensive cyber security search engine that allows users
+to search for a wide range of information, including domain names, email addresses,
+IP addresses, and leaked credentials. The platform uses a combination of data
+breaches, dark web sources, and other publicly available sources to build its database.
+
+ Shodan.io: Shodan.io is a search engine designed specifically for internet-connected
+devices. The platform allows users to search for a wide range of devices, including
+routers, cameras, and IoT devices. Shodan.io can be used to identify vulnerable devices
+and services that may be exploited during a Red Teaming exercise.
+
+ Censys.io: Censys.io is another search engine designed specifically for internetconnected
+devices. The platform allows users to search for a wide range of devices,
+including web servers, databases, and IoT devices. Censys.io can be used to identify
+potential vulnerabilities and misconfigurations that may be exploited during a Red
+Teaming exercise.
